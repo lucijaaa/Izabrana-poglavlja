@@ -17,4 +17,4 @@ Data Carpentry razvija i nudi radionice o temeljnim vještinama upravljanja poda
 ## [Software Carpentry](https://software-carpentry.org)
 Slično kao i gore navedene mrežne stranice u cilju im je podučavanje osnovnih istraživačkih vještina za računalnu obradu podataka. 
 
-*Temeljne lekcije*:The Unix Shell, Version Control with Git, Programming with Python, Plotting and Programming in Python, Programming with R, R for Reproducible Scientific Analysis.
+*Temeljne lekcije*: The Unix Shell, Version Control with Git, Programming with Python, Plotting and Programming in Python, Programming with R, R for Reproducible Scientific Analysis.
