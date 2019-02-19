@@ -1,7 +1,7 @@
 **Zadatak**
 Na temelju dostupnih Library, Data i Software Carpentry lekcija izdvojite kompetencije/vještine koje smatrate potrebnima za kompetentno obavljanje poslova podatkovno/informacijski intenzivnim strukama.
 
-#Library Carpentery
+## Library Carpentery
 Osnovni zadatak Library Carpenteryja je razvijanje lekcija i alata osobama koji rade u knjižničnim i informacijskim strukama. U cilju im je omogućiti i olakšati navedenim zajednicama korištenje softvera i podataka pri obavljanju poslova, kao i zagovaranje i osposobljavanje drugih za učinkovitu i efektivnu uporabu istoga.
 
 Temeljne lekcije: 
@@ -17,7 +17,7 @@ Webscraping
 Introduction to Python
 Introduction to Data for Archivists
 
-#Data Carpentry
+## Data Carpentry
 Data Carpentry razvija i nudi radionice o temeljnim vještinama upravljanja podacima potrebnima za provedbu istraživanja. Njihova je misija pružanje istraživačima visokokvalitetnu edukaciju koja obuhvaća puni životni vijek na podacima temeljenih istraživanja unutar određene domene.
 
 Social Science Workshop Overview
@@ -25,7 +25,7 @@ Dana Organization in Spreadheets for Social Scientists
 Data Cleaning with OpenRefine for Social Scientists
 Data Analysis and Visualization with R for Social Scientists
 
-#Software Carpentry
+## Software Carpentry
 Slično kao i gore navedene mrežne stranice u cilju im je podučavanje osnovnih istraživačkih vještina za računalnu obradu podataka. 
 Temeljne lekcije:
 The Unix Shell
