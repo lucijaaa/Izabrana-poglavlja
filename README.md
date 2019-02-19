@@ -1,7 +1,7 @@
 **Zadatak**
 Na temelju dostupnih Library, Data i Software Carpentry lekcija izdvojite kompetencije/vještine koje smatrate potrebnima za kompetentno obavljanje poslova podatkovno/informacijski intenzivnim strukama.
 
-#Library Carpentery
+#Library Carpentery#
 Osnovni zadatak Library Carpenteryja je razvijanje lekcija i alata osobama koji rade u knjižničnim i informacijskim strukama. U cilju im je omogućiti i olakšati navedenim zajednicama korištenje softvera i podataka pri obavljanju poslova, kao i zagovaranje i osposobljavanje drugih za učinkovitu i efektivnu uporabu istoga.
 
 Temeljne lekcije: 
